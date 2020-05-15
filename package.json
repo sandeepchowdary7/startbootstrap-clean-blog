@@ -1,6 +1,6 @@
 {
-    "title": "Clean Blog",
-    "name": "startbootstrap-clean-blog",
+    "title": "Php-pool.review",
+    "name": "php-pool.reviw-blog",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -20,13 +20,13 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Sandeep",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Sandeep (https://php-pool.review/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog.git"
+        "url": ""
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
